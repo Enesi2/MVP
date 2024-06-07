@@ -1,0 +1,62 @@
+(project overview, installation instructions, and usage guidelines)
+
+_Design_
+
+*wireframes/ (user interface sketches)
++ homepage.png
++ dashboard.png
++ content_list.png
++ content_edit.png
+*user_flow_diagrams/ (user journey maps)
++ content_creation.pdf
++ content_approval.pdf
+*visual_design_mockups/ (high-fidelity design mockups)
++ homepage.desktop.png
++ dashboard.tablet.png
+
+_Backend_
+
+*api_documentation/ (API endpoints and documentation)
++ api.yaml
++ (link unavailable)
+*database_schema/ (database design and schema)
++ database.sql
++ entity_relationship_diagram.png
+*server_side_code/ (server-side code)
++ app.js
++ controllers/
++ models/
++ services/
+
+_Frontend_
+
+*client_side_code/ (client-side code)
++ index.html
++ styles.css
++ scripts.js
++ components/
+*user_interface_components/ (UI components)
++ header.vue
++ sidebar.vue
++ content_list.vue
+*static_assets/ (static assets)
++ images/
++ fonts/
+
+_Testing_
+
+*test_cases/ (test cases and scenarios)
++ unit_tests.js
++ integration_tests.js
+*test_data/ (test data and fixtures)
++ sample_content.json
++ sample_user.json
+
+_Documentation_
+
+"(link unavailable)" (user manual and guides)
+"(link unavailable)" (system architecture and technical decisions)
+
+_Changelog_
+
+"(link unavailable)" (version history and release notes)
